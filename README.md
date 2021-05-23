@@ -19,4 +19,4 @@ Follow the steps below to perform a search:
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| ![input](https://github.com/YanLuong/UFO/blob/main/static/images/input_text.png)   | Title       |
