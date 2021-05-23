@@ -20,4 +20,4 @@ Follow the steps below to perform a search:
 | Syntax      | Description |
 | ----------- | ----------- |
 | ![input](https://github.com/YanLuong/UFO/blob/main/static/images/input_text.png)   | Navigate to left of the page and enter a specific search criteria.       |
-| Test |  Test     |
+|![2 filters](https://github.com/YanLuong/UFO/blob/main/static/images/2date_and_shape.png) |  Test     |
