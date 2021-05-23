@@ -17,5 +17,5 @@ Follow the steps below to perform a search:
 
 | Image    | Description |
 | ----------- | ----------- |
-| ![input](https://github.com/YanLuong/UFO/blob/main/static/images/input_text.png)   | Navigate to left of the page and enter a specific search or multiple criteria as shown in the left image. If entering a date, follow the date format that is suggested in the 'Enter Date' search box. Once you have entered a search criteria, you must either click 'enter' on your keyboard/keypad or right click the mouse. This will trigger a "change" event if search criterias are inputted.     |
-|![2 filters](https://github.com/YanLuong/UFO/blob/main/static/images/az_filter.png) |  Test     |
+| ![input](https://github.com/YanLuong/UFO/blob/main/static/images/input_text.png)   | Navigate to left of the page (as shown in left image) and enter a specific search or multiple criterias. If entering a date, follow the date format that is suggested in the 'Enter Date' search box. Once you have entered a search criteria, you must either click 'enter' on your keyboard/keypad or right click the mouse. This will trigger a "change" event if search criterias are inputted.     |
+|![2 filters](https://github.com/YanLuong/UFO/blob/main/static/images/az_filter.png) |  In the left image, we have an example of a search criteria filtering out the results by state. In the state text box, 'az' was entered to filter out only results that occurred in 'az'    |
