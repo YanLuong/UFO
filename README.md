@@ -16,3 +16,7 @@ Dana's webpage is fully functioning now.
 Follow the steps below to perform a search:
 
   * Navigate to the left of the screen, where you will find 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| ![input](https://github.com/YanLuong/UFO/blob/main/static/images/input_text.png)   | Title       |
