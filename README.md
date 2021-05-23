@@ -16,3 +16,7 @@ Dana's webpage is fully functioning now.
 Follow the steps below to perform a search:
 
   * Navigate to the left of the screen, where you will find 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
