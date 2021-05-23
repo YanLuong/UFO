@@ -32,5 +32,5 @@ After reviewing the UFO webpage. The search function can be improved. At the mom
 
 ### Recommendation:
 
-  * The webpage could be further improved by having a 'search' button to begin the search. As of now, there is no indication to the user on how the search is triggered other than trying out to see what works. From an accessibility point of view, it will help the user navigate around the page if there is a 'search' button.
+  * The webpage could be further improved by having a 'search' button to begin the search. As of now, there is no indication to the user on how the search is triggered other than trying out to see what works. From an accessibility point of view, it will help the user navigate around the page if there is a 'search' button. Once a search has been performed, an ideal result will also indicate how many results (or none) are returned and matched the search criteria.
   * Another recommendation that can enhance the user experience is having a clear filter button. After a user has performed a search and filtered the results, to perform another search again will require the user to manually clear each search criteria that was entered previously. This is quite a tedious process which can be replaced with button to clear all the previous search criterias.
