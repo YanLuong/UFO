@@ -29,3 +29,5 @@ Follow the steps below to perform a search:
 ### Summary:
 
 After reviewing the UFO webpage. The search function can be improved. At the moment it is not very intuitive. For example, after a search criteria has been entered, it will not prompt the user how to trigger the search. Usually, there is a 'search' button that will commence the search and filter the results. Another aspect that can be improved is to show how many results are found and returned especially if there is a large number of results. This feedback will also help the user to decide whether the search should be further refined to narrow the results. Currently, if no results are found there is no indication of that other than blank results in the table so the user would have to automatically assume that there is no match.
+
+### Recommendation:
