@@ -7,7 +7,7 @@ Dana is a data journalist from McMinnville, Oregon. The town is famous for UFO s
 
 ### Overview of the analysis:
 
-Currently, Dana's website only allows you to filter the table by only one search criteria (date) which is inputted by the user. Dana's objective is to further refine the filter search function to allow for additional search criterias such as city, state, country and shape. By allowing users to filter by multiple search criterias, it will allow for a more in-depth analysis.
+Currently, Dana's website only allows you to filter the table by only one search criteria (date) which is inputted by the user. Dana's objective is to further refine the filter search function to allow for additional search criterias such as city, state, country and shape. By allowing users to filter by multiple search criterias, it will allow for a more in-depth analysis. To carry out multiple search criterias, the event listener will be modified to detect changes in each filter.
 
 ----
 
